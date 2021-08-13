@@ -1,0 +1,636 @@
+fileFormatVersion: 2
+guid: a607c90fb6b94cf4ab5e64366a77ba0c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2724332451462987659
+    second: rachel-kolsuz-halosuz-efektsizSheet_0
+  - first:
+      213: 4782181076550191974
+    second: rachel-kolsuz-halosuz-efektsizSheet_1
+  - first:
+      213: 1031663306753286146
+    second: rachel-kolsuz-halosuz-efektsizSheet_2
+  - first:
+      213: 4081872899454988419
+    second: rachel-kolsuz-halosuz-efektsizSheet_3
+  - first:
+      213: 8253619441569280959
+    second: rachel-kolsuz-halosuz-efektsizSheet_4
+  - first:
+      213: 8087453092844139681
+    second: rachel-kolsuz-halosuz-efektsizSheet_5
+  - first:
+      213: 5994735670722075920
+    second: rachel-kolsuz-halosuz-efektsizSheet_6
+  - first:
+      213: 3162179021832922681
+    second: rachel-kolsuz-halosuz-efektsizSheet_7
+  - first:
+      213: -7132751576453517932
+    second: rachel-kolsuz-halosuz-efektsizSheet_8
+  - first:
+      213: 4678349843981564541
+    second: rachel-kolsuz-halosuz-efektsizSheet_9
+  - first:
+      213: -2344558610773608721
+    second: rachel-kolsuz-halosuz-efektsizSheet_10
+  - first:
+      213: -7969257843082176490
+    second: rachel-kolsuz-halosuz-efektsizSheet_11
+  - first:
+      213: -2084498783499343490
+    second: rachel-kolsuz-halosuz-efektsizSheet_12
+  - first:
+      213: 2651053690863765170
+    second: rachel-kolsuz-halosuz-efektsizSheet_13
+  - first:
+      213: 8957985619211170901
+    second: rachel-kolsuz-halosuz-efektsizSheet_14
+  - first:
+      213: 5851063690271886616
+    second: rachel-kolsuz-halosuz-efektsizSheet_15
+  - first:
+      213: -1547241058573821924
+    second: rachel-kolsuz-halosuz-efektsizSheet_16
+  - first:
+      213: 2544455164824823591
+    second: rachel-kolsuz-halosuz-efektsizSheet_17
+  - first:
+      213: 509466959002422067
+    second: rachel-kolsuz-halosuz-efektsizSheet_18
+  - first:
+      213: -4368597179854458971
+    second: rachel-kolsuz-halosuz-efektsizSheet_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rachel-kolsuz-halosuz-efektsizSheet_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 335
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f35833ee5cec520800000000000000
+      internalID: 2724332451462987659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rachel-kolsuz-halosuz-efektsizSheet_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 335
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b8e5f1a58bd5240800000000000000
+      internalID: 4782181076550191974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rachel-kolsuz-halosuz-efektsizSheet_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 335
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200a5debf44315e00800000000000000
+      internalID: 1031663306753286146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rachel-kolsuz-halosuz-efektsizSheet_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 335
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380fe4e76c9b5a830800000000000000
+      internalID: 4081872899454988419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rachel-kolsuz-halosuz-efektsizSheet_4
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 271
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3befd072fba8270800000000000000
+      internalID: 8253619441569280959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rachel-kolsuz-halosuz-efektsizSheet_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 271
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4fb902db76c3070800000000000000
+      internalID: 8087453092844139681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rachel-kolsuz-halosuz-efektsizSheet_6
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 271
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d90cfb454913350800000000000000
+      internalID: 5994735670722075920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rachel-kolsuz-halosuz-efektsizSheet_7
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 271
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9362b80011152eb20800000000000000
+      internalID: 3162179021832922681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rachel-kolsuz-halosuz-efektsizSheet_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 207
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d616e6b30630d90800000000000000
+      internalID: -7132751576453517932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rachel-kolsuz-halosuz-efektsizSheet_9
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 207
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a76896566dce040800000000000000
+      internalID: 4678349843981564541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rachel-kolsuz-halosuz-efektsizSheet_10
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 206
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe671c19d54767fd0800000000000000
+      internalID: -2344558610773608721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rachel-kolsuz-halosuz-efektsizSheet_11
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 206
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6185793f632876190800000000000000
+      internalID: -7969257843082176490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rachel-kolsuz-halosuz-efektsizSheet_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 142
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79a9ca866f5213e0800000000000000
+      internalID: -2084498783499343490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rachel-kolsuz-halosuz-efektsizSheet_13
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 142
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b64c64394f6ac420800000000000000
+      internalID: 2651053690863765170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rachel-kolsuz-halosuz-efektsizSheet_14
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 79
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554b3209578215c70800000000000000
+      internalID: 8957985619211170901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rachel-kolsuz-halosuz-efektsizSheet_15
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 79
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d87d01d67233150800000000000000
+      internalID: 5851063690271886616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rachel-kolsuz-halosuz-efektsizSheet_16
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 79
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18dec17478178ae0800000000000000
+      internalID: -1547241058573821924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rachel-kolsuz-halosuz-efektsizSheet_17
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 15
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727aa46cd78bf4320800000000000000
+      internalID: 2544455164824823591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rachel-kolsuz-halosuz-efektsizSheet_18
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 20
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b432cff7df11700800000000000000
+      internalID: 509466959002422067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rachel-kolsuz-halosuz-efektsizSheet_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 28
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af6000c200af53c0800000000000000
+      internalID: -4368597179854458971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
